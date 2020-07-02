@@ -1,4 +1,4 @@
-# focus-trap-react [![Build Status](https://travis-ci.org/davidtheclark/focus-trap-react.svg?branch=master)](https://travis-ci.org/davidtheclark/focus-trap-react)
+# focus-trap-react [![CI](https://github.com/davidtheclark/focus-trap-react/workflows/CI/badge.svg?event=push)](https://github.com/davidtheclark/focus-trap-react/actions?query=workflow:CI+branch:master)
 
 ---
 
